@@ -5,6 +5,8 @@ public class ClassTest {
 		
 		System.out.println("done");
 		System.out.println("done2");
+		System.out.println("done3");
+		System.out.println("done4");
 		
 		
 	}
